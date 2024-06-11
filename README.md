@@ -10,7 +10,7 @@ This is an implementation of our paper **A multimodal integration system based o
 Modified from [mmclassification](https://github.com/open-mmlab/mmclassification).
 
 
-![Framework of our proposed method](image/Framework.png)
+![Framework of our proposed method](image/Framework1.png)
 <p align="center">Fig. 1. Framework of our proposed method</p>
 
 
