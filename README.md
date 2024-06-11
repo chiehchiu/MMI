@@ -1,7 +1,7 @@
 # A multimodal integration system based on artificial intelligence for pneumonia identification and prognosis prediction
 Copyright (C) 2023 
-> [Peize Sun](https://peizesun.github.io/), [Yi Jiang](https://enjoyyi.github.io/), [Shoufa Chen](https://www.shoufachen.com/), [Shilong Zhang](https://jshilong.github.io/), [Bingyue Peng](), [Ping Luo](http://luoping.me/), [Zehuan Yuan](https://shallowyuan.github.io/)
-> <br>HKU, ByteDance<br>
+> Jun Shao, Jiechao Ma, Yizhou Yu, Shu Zhang, Wenyang Wang, Weimin Li, Chengdi Wang (chengdi_wang@scu.edu.cn)
+
 ## Introduction
 This is an implementation of our paper **A multimodal integration system based on artificial intelligence for pneumonia identification and prognosis prediction**.
 
